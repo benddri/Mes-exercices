@@ -13,5 +13,6 @@ const title = document.getElementById("titre");
 console.log(titre);
 console.log(title);
 const parag2 = document.querySelector("intro");
-console.log(resultat);
+console.log(parag2);
+
 //j'ai observe que le console affiche message d'ereur
