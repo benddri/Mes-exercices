@@ -22,6 +22,7 @@ console.log(produits[1].prix)
 // }
 //     return article
 // }
+//================par déstructuration===============
 function creerFiche({ nom, prix, stock }) {
         const article=document.createElement("article")
     article.classList.add("border","font-bold","p-4","rounded-lg")
