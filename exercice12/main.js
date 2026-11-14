@@ -38,4 +38,7 @@ produits.forEach(produit=>{
  nomsForEch.push(produit.nom)
 })
 console.log(nomsForEch)
+
+
+
 //En choisir map plutôt que forEach car map retourne un nouveau tableau, forEach exécute une action
